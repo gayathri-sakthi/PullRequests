@@ -1,1 +1,3 @@
-I have created this file in my second branc
+I have created this file in my second branch
+
+I am going to experience the merge conflict
